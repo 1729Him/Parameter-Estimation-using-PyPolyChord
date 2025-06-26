@@ -5,7 +5,8 @@ This repository demonstrates how to constrain the standard ΛCDM cosmological mo
 We combine three state-of-the-art datasets to constrain cosmological parameters:
 
 1. Cosmic Chronometers incorporating the full covariance matrix from "Moresco et al. https://gitlab.com/mmoresco/CCcovariance"
-2. Full Pantheon+ Compilation
+2. Pantheon+_only_cosmosis_likelihood :- Download data from:
+https://github.com/PantheonPlusSH0ES/DataRelease/tree/main/Pantheon%2B_Data/4_DISTANCES_AND_COVAR
 3. Baryon Acoustic Oscillation (BAO) data from the latest Data Release 2 "
 
 You can set up this environment using conda and build PyPolyChord from source.
